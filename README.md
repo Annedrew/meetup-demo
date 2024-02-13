@@ -5,3 +5,9 @@
 - Favorites: add events into favorites.
 
 Tech Stack: JavaScript, React, Firebase
+
+Quick Start
+```
+cd meetup
+npm start
+```
